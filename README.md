@@ -1,2 +1,2 @@
-# DHTML-ToDo-VueJS
-Implemented DHTMLX Scheduler using VueJS 
+# vue_todo_dhtmlx
+ 
